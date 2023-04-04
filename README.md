@@ -1,5 +1,5 @@
 # Speed Read-R
-![SpeedReadR-demo](https://github.com/Loudbea7/SpeedReadR/assets/Promo_cropped_2.gif)
+![SpeedReadR-demo](https://github.com/loudbeatproductions/SpeedReadR/blob/master/assets/Promo_cropped_2.gif?raw=true)
 
 - ### [Demo](https://youtu.be/nV46OvaFsds)
 - ### [Intro](#intro)
@@ -132,22 +132,31 @@ Quick text provides two fields, in which you can write a title for a new file, a
 ## Download
 Current version: 1.1.0
 
-[Windows](https://github.com/Loudbea7/SpeedReadR/SpeedReadR_1.1.0.exe)
+[Windows](https://github.com/loudbeatproductions/SpeedReadR/blob/master/SpeedReadR_1.1.0.exe)
 
 Linux (hopefully coming soon)
 
 Mac (hopefully coming soon)
 
 ## About
-My work and future projects on [@Loudbeat](https://www.instagram.com/loudbeat) and [Here](https://github.com/Loudbea7/)
+My work and future projects on [@Loudbeat](https://www.instagram.com/loudbeat) and [Here](https://github.com/loudbeatproductions)
 
 ## Thanks
 
-Bitcoin ```bc1ql8vsr57vctxeqqm0ayer04j6lqgsc6gtpytley```
+Bitcoin
+```
+bc1ql8vsr57vctxeqqm0ayer04j6lqgsc6gtpytley
+```
 
-ERC20 ```0x7c7C32E8400a2B9EecAD55f94f4F734bA520687f```
+ERC20
+```
+0x7c7C32E8400a2B9EecAD55f94f4F734bA520687f
+```
 
-BNB ```bnb1aheerja9dlfs6tsda5gq6aj3vzxhm2rjm4e620```
+BNB
+```
+bnb1aheerja9dlfs6tsda5gq6aj3vzxhm2rjm4e620
+```
 
 [Coindrop](https://coindrop.to/loudbeat)
 
