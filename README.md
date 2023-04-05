@@ -132,7 +132,7 @@ Quick text provides two fields, in which you can write a title for a new file, a
 ## Download
 Current version: 1.1.0
 
-[Windows](https://github.com/loudbeatproductions/SpeedReadR/blob/master/SpeedReadR_1.1.0.exe)
+[Windows](https://github.com/loudbeatproductions/SpeedReadR/blob/master/SpeedReadR_1.1.0.exe?raw=true)
 
 Linux (hopefully coming soon)
 
