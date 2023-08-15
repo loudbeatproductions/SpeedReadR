@@ -1,18 +1,18 @@
 # Speed Read-R
 ![SpeedReadR-demo](https://github.com/loudbeatproductions/SpeedReadR/blob/master/assets/Promo_cropped_2.gif?raw=true)
 
-- ### [**Demo**](https://youtu.be/nV46OvaFsds)
-- ### [**Intro**](#intro)
-- ### [**Settings**](#settings)
-- ### [**Formats**](#formats)
-- ### [**Reader**](#reader)
-- ### [**Quick text**](#quick-text)
-- ### [**Download**](#download)
-- ### [**Usage**](#usage)
-- ### [**Known bugs**](#known-bugs)
-- ### [**Changelog**](#changelog)
-- ### [**About**](#about)
-- ### [**Donations**](#donations)
+- ### [**_Demo**](#speed-read-r)
+- ### [**_Intro**](#intro)
+- ### [**_Settings**](#settings)
+- ### [**_Formats**](#formats)
+- ### [**_Reader**](#reader)
+- ### [**_Quick text**](#quick-text)
+- ### [**_Download**](#download)
+- ### [**_Usage**](#usage)
+- ### [**_Known bugs**](#known-bugs)
+- ### [**_Changelog**](#changelog)
+- ### [**_About**](#about)
+- ### [**_Donations**](#donations)
 
 ---
 ---
@@ -38,22 +38,22 @@ SRR will break a text into pieces and give you each word the optimal focus spot 
 ---
 ---
 ## Settings
-- ### [Reader size](#reader-size)
-- ### [Background size](#background-size)
-- ### [Words per minute (WPM)](#words-per-minute-wpm)
-- ### [Acceleration](#acceleration)
-- ### [Focus pointer](#focus-pointer)
-- ### [Word length delay](#word-length-delay)
-- ### [Dot Delay](#dot-delay)
-- ### [Comma delay](#comma-delay)
-- ### [Progress bar](#progress-bar)
-- ### [Blink](#blink)
-- ### [Blink duration](#blink-duration)
-- ### [Blink interval](#blink-interval)
-- ### [Blink fade toggle](#blink-fade-toggle)
-- ### [Blink fade time](#blink-fade-time)
-- ### [Blink color](#blink-color)
-### **Reader size:**
+- ### [_Reader size](#reader-size:)
+- ### [_Background size](#background-size)
+- ### [_Words per minute (WPM)](#words-per-minute-wpm)
+- ### [_Acceleration](#acceleration)
+- ### [_Focus pointer](#focus-pointer)
+- ### [_Word length delay](#word-length-delay)
+- ### [_Dot Delay](#dot-delay)
+- ### [_Comma delay](#comma-delay)
+- ### [_Progress bar](#progress-bar)
+- ### [_Blink](#blink)
+- ### [_Blink duration](#blink-duration)
+- ### [_Blink interval](#blink-interval)
+- ### [_Blink fade toggle](#blink-fade-toggle)
+- ### [_Blink fade time](#blink-fade-time)
+- ### [_Blink color](#blink-color)
+### Reader size:
 Changes the size of the text shown by the prompter
 
 ### **Background size:**
