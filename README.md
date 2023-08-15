@@ -38,7 +38,7 @@ SRR will break a text into pieces and give you each word the optimal focus spot 
 ---
 ---
 ## Settings
-- ### [_Reader size](#reader-size:)
+- ### [_Reader size](#reader-size)
 - ### [_Background size](#background-size)
 - ### [_Words per minute (WPM)](#words-per-minute-wpm)
 - ### [_Acceleration](#acceleration)
