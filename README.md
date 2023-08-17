@@ -13,6 +13,7 @@
 - ### [**_Changelog**](#changelog)
 - ### [**_About**](#about)
 - ### [**_Donations**](#donations)
+- ### [**_License**](https://github.com/loudbeatproductions/SpeedReadR/blob/master/LICENSE.txt)
 
 ---
 ---
@@ -177,7 +178,10 @@ SHA256 Arch: `0841a353e6328304570be38d2f38c05bdfeb44f99888d2e007922cd13f3abd5e`
 
 ## Usage
 - ### **Linux:**
-
+    Grant executable permissions to the file (replace "filename" with the name of the file you downloaded)
+    ```
+    chmod +x filename
+    ```
     Open a terminal and launch the application.
 
     ```
@@ -193,6 +197,10 @@ SHA256 Arch: `0841a353e6328304570be38d2f38c05bdfeb44f99888d2e007922cd13f3abd5e`
 
 
 No internet connection needed.
+
+## * * * Warning * * * :
+
+**There is no loading visual indicator when opening a file. The app will freeze until the file is completely processed, this can take a couple of seconds when loading big files or using slow hardware so please be patient.**
 
 ---
 ---
@@ -253,3 +261,4 @@ bnb1aheerja9dlfs6tsda5gq6aj3vzxhm2rjm4e620
 # Thanks!
 
 
+\* The entirety of this app was made without the aid of any LLM or language-processing neural network.
