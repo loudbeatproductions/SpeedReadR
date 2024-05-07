@@ -3,9 +3,10 @@
 
 - ### [**_Demo**](#speed-read-r)
 - ### [**_Intro**](#intro)
+- ### [**_Reader screen**](#reader-screen)
+- ### [**_Reader**](#reader)
 - ### [**_Settings**](#settings)
 - ### [**_Formats**](#formats)
-- ### [**_Reader**](#reader)
 - ### [**_Quick text**](#quick-text)
 - ### [**_Download**](#download)
 - ### [**_Usage**](#usage)
@@ -38,6 +39,40 @@ SRR will break a text into pieces and give you each word the optimal focus spot 
 
 ---
 ---
+
+## Reader screen
+![SpeedReadR-screen](https://github.com/loudbeatproductions/SpeedReadR/blob/master/assets/reader-screen.png?raw=true)
+
+1. Menu.
+2. Book title.
+3. Current word index.
+4. Total word count.
+5. Progress bar.
+6. Calculated time left to finish.
+7. Calculated current words per minute.
+8. Selected words per minute.
+9. Toggle hide book text, shortcut [**F**].
+10. Speed up wpm +10, shortcut [**S**].
+11. Speed down wpm -10 shortcut [**D**].
+12. Play/pause reader, shortcut [**spacebar**].
+
+---
+---
+## Reader
+The reader has a top bar showing the current word index/total words, a progress bar, a timer that roughly estimates the time left to finish, the current measured WPM and the currently selected WPM.
+
+On the bottom half of the screen you'll find the whole text. Double clicking on any word would set the current position of the word count, prompter, and the progress bar (if activated).
+
+The letters "**S**", "**D**", "**F**" and "**Space** bar" are used as shortcuts.
+- **S** : Increase WPM by **+10**
+- **D** : Decrease WPM by **-10**
+- **F** : Toggle **fullscreen**
+- **Space** : **Start/Stop** player.
+
+"**S**" "**D**" and "**Space**" also work in the settings screen to control the prompter from settings and the selected WPM of the current configuration.
+
+---
+---
 ## Settings
 - ### [_Reader size](#reader-size)
 - ### [_Background size](#background-size)
@@ -53,7 +88,7 @@ SRR will break a text into pieces and give you each word the optimal focus spot 
 - ### [_Blink interval](#blink-interval)
 - ### [_Blink fade toggle](#blink-fade-toggle)
 - ### [_Blink fade time](#blink-fade-time)
-- ### [_Blink color](#blink-color)
+- ### [~~_Blink color~~](#blink-color)
 ### Reader size:
 Changes the size of the text shown by the prompter
 
@@ -109,8 +144,8 @@ When turned on, the blink shown on the prompter as " —.— " will gradually ch
 ### **Blink fade time:**
 Select the time in which the blink will end up fading completely.
 
-### **Blink color:**
-Select the color of the blink shown on the prompter.
+### **~~Blink color:~~**
+ (Depercated) ~~Select the color of the blink shown on the prompter.~~
 
 ---
 ---
@@ -128,20 +163,6 @@ The inner guts of the different formats may not be all the same, so some can cau
 
 ---
 ---
-## Reader
-The reader has a top bar showing the current word and the total word count of the oppened book, a progress bar, a timer that roughly estimates the time left to finish, and the currently selected WPM.
-Below is the prompter and on the bottom you'll find the whole text. Double clicking on any word would set the current position of the word count, prompter, and the progress bar (if activated).
-
-The letters "**S**", "**D**", "**F**" and "**Space** bar" are used as shortcuts.
-- **S** : Increase WPM by **+10**
-- **D** : Decrease WPM by **-10**
-- **F** : Toggle **fullscreen**
-- **Space** : **Start/Stop** player.
-
-"**S**" "**D**" and "**Space**" also work in the settings screen.
-
----
----
 ## Quick text
 Quick text provides two fields, in which you can write a title for a new file, and write or paste from the clipboard a new text to save in your setted folder. The new file will be instantly opened and presented on the reader upon the pressing of the "save & read" button.
 
@@ -149,25 +170,25 @@ Quick text provides two fields, in which you can write a title for a new file, a
 ---
 
 ## Download
-Latest version: **1.2.0**
+Latest version: **1.3.0**
 
 ---
 
-- ### [**Windows**](https://github.com/loudbeatproductions/SpeedReadR/blob/master/SpeedReadR_1.2.0.exe?raw=true)
+- ### [**Windows**](https://github.com/loudbeatproductions/SpeedReadR/blob/master/SpeedReadR_1.3.0.exe?raw=true)
 
-SHA256 Windows: `75d94cd758f77f08d638f41f63928c74ed6e065aabfc6d96e5c50d292e5ac538`
+SHA256 Windows: `78b901934cfae0d628e1fb893758a249bdaa1bb258bc66cd6ede3627afe6c109`
 
 --- 
 
-- ### [**Linux (Compiled in Ubuntu)**](https://github.com/loudbeatproductions/SpeedReadR/blob/master/SpeedReadR_1.2.0_Ubuntu?raw=true)
+- ### [**Linux (Compiled in Ubuntu)**](https://github.com/loudbeatproductions/SpeedReadR/blob/master/SpeedReadR_1.3.0_Ubuntu?raw=true)
 
-SHA256 Ubuntu: `d46f800c09bf0f849b37fe73e70b5040fb904fb227db4ce1a87fec7b22a9fc4f`
+SHA256 Ubuntu: `272b0c095e90454c40d102ad23d28c74c66ca1766a1416339f552d7ea771b3cf`
 
 ---
 
-- ### [**Linux (Compiled in Arch)**](https://github.com/loudbeatproductions/SpeedReadR/blob/master/SpeedReadR_1.2.0_Arch?raw=true)
+- ### [**Linux (Compiled in Arch)**](https://github.com/loudbeatproductions/SpeedReadR/blob/master/SpeedReadR_1.3.0_Arch?raw=true)
 
-SHA256 Arch: `0841a353e6328304570be38d2f38c05bdfeb44f99888d2e007922cd13f3abd5e`
+SHA256 Arch: `f591cdcc02eaff4560841668d7c53b45f95f3d26f8ef7f9ac437f1e501a6f055`
 
 ---
 
@@ -178,17 +199,22 @@ SHA256 Arch: `0841a353e6328304570be38d2f38c05bdfeb44f99888d2e007922cd13f3abd5e`
 
 ## Usage
 - ### **Linux:**
-    Grant executable permissions to the file (replace "filename" with the name of the file you downloaded)
+    Grant executable permissions to the file
     ```
-    chmod +x filename
+    chmod +x SpeedReadR_1.3.0_Ubuntu
+    ```
+    or
+    ```
+    chmod +x SpeedReadR_1.3.0_Arch
     ```
     Open a terminal and launch the application.
 
     ```
-    ./SpeedReadR_1.2.0_Ubuntu
+    ./SpeedReadR_1.3.0_Ubuntu
     ```
+    or
     ```
-    ./SpeedReadR_1.2.0_Arch
+    ./SpeedReadR_1.3.0_Arch
     ```
 
 - ### **Windows:**
@@ -198,19 +224,28 @@ SHA256 Arch: `0841a353e6328304570be38d2f38c05bdfeb44f99888d2e007922cd13f3abd5e`
 
 No internet connection needed.
 
-## * * * Warning * * * :
-
-**There is no loading visual indicator when opening a file. The app will freeze until the file is completely processed, this can take a couple of seconds when loading big files or using slow hardware so please be patient.**
-
 ---
 ---
 ## Known bugs
-- Folder selector forces to exit the application in Windows, if possible avoid using it and use the default `Books` folder.
 - App icon doesn't work on Linux.
 ---
 ---
 ## Changelog
-
+- **v1.3.0**
+    - Update libraries.
+    - Processing book content now uses threading and async.
+    - Added loading animation when processing book content.
+    - Added error handling when missing books and simmilar scenarios.
+    - Added measured words per minute as some choosen delays config affects real WPM output.
+    - Added lots of new theme colors.
+    - Improved timer accuracy.
+    - Fix prevent OS to go to sleep mode or turn off screen while playing.
+    - Fix glitch on quick text on text input going out of layout.
+    - Minor fixes.
+    
+    - Removed HUE selection.
+    - Removed blink color selection.
+    
 - **v1.2.0**
     - Changed reader to iterator (should improve performance)
     - Fixed total word count glitch in the menu bar.
